@@ -1,2 +1,3 @@
 # MachineLearning
-Machine learning algorythms
+Machine learning algorithms
+
